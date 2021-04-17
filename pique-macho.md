@@ -2,7 +2,7 @@
 
 ## INGREDIENTES
 
-- Carne
+- Carne de Cordero
 - Papa
 - Tomate
 - Cebolla

@@ -5,3 +5,5 @@
 - Carne
 - Papa
 - Tomate
+- Cebolla
+- Locoto
